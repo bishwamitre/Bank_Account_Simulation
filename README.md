@@ -1,6 +1,6 @@
 # Bank_Account_Simulation
 
-                    Analysis of Required Operations and Data
+Analysis of Required Operations and Data
 
 A list of operations a person would want to do with a bank account would include:
     Create (an account)
