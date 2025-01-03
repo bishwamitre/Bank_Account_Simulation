@@ -16,6 +16,7 @@ def show(account_number, Password):
                                                                                          accountList[account]['Balance'],
                                                                                          accountList[account]['Password']))
 
+
 def new_account(name, amount, password):
     global accountList
     new_account_dict = {'Name': name, 'Balance': amount, 'Password': password}
