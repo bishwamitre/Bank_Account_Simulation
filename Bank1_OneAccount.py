@@ -86,6 +86,4 @@ while True:
     else:
         print('_'*40)
         print('\nInvalid Action')
-
-
-    
+ 
